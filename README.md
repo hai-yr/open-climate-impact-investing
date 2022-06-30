@@ -14,7 +14,7 @@ Effective altruism hypothesis: impact is proportional to three factors. Those fa
 
 Using a logarithmic scale allows us to compare each solution more easily and also means that rather than having to multiply Scale, Solvability and Neglectedness in order to get our overall cost-effectiveness estimate, we can simply add them together. 
 
-Easy global starting point --> project drawdown numbers or country net zero plan
+Easy global starting point --> project drawdown numbers or country's net zero plan
 
 Sources:
 https://80000hours.org/articles/problem-framework/#introducing-how-we-define-the-factors
