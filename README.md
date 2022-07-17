@@ -17,6 +17,7 @@ Using a logarithmic scale allows us to compare each solution more easily and als
 Easy global starting point --> Project Drawdown list of solutions and emissions numbers or country's net zero plan
 
 Initial list of solutions created from Project Drawdown
+https://docs.google.com/spreadsheets/d/1oV-ZlYeXVxnvZnm1OaMkljIimT1tr7rGfM92zLMCz40/edit#gid=1113150780
 https://docs.google.com/spreadsheets/d/1sFf1NrEHQR8R0OpebVF6wa2Ve3sZpJjOhfBKZzg3_KY/edit#gid=0
 
 
